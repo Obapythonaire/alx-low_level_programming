@@ -1,6 +1,6 @@
-# This directory contains scripts that perfom the following fuctions written on 15/03/2022
+# This directory contains scripts that perfom the following fuctions written on 15/03/22
 
-0_putchar.c is a program that prints Holberton, followed by a new line.
+0-putchar.c is a program that prints Holberton, followed by a new line.
 
 1-alphabet.c is a function that prints the alphabet, in lowercase, followed by a new line.
 
@@ -34,4 +34,4 @@
 
  _putchar.c contains the _putchar() function definition.
 
- main.h is the header file containing all the function prototypes used in this project.
+ holberton.h is the header file containing all the function prototypes used in this project.
