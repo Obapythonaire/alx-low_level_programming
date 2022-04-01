@@ -1,7 +1,8 @@
-# this directory contains scripts that do the followinf scripts
+# **C static libraries**
 
- libmain.a is a static library.
+Low-level programming & Algorithm
+Build your own C static library :
 
- create_static_lib.sh is a script that creates a static library called liball.a from all the .c files that are in the current directory.
-
- main.h is a header file containing all the prototypes of the functions stored in the main.a library.
+1. A library is not a luxury but one of the necessities of life.
+2. Without libraries what have we? We have no past and no future.
+3. Either write something worth reading or do something worth writing.
