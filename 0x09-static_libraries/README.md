@@ -1,8 +1,5 @@
-# **C static libraries**
+**General**
 
-Low-level programming & Algorithm
-Build your own C static library :
+   -	 What is a static library, how does it work, how to create one, and how to use it
+   -	 Basic usage of ar, ranlib, nm
 
-1. A library is not a luxury but one of the necessities of life.
-2. Without libraries what have we? We have no past and no future.
-3. Either write something worth reading or do something worth writing.
