@@ -1,5 +1,6 @@
-#instruction to compile
-CC := gcc
-SRC := main.c school.c
-all: $(SRC)
-	$(CC) $(SRC) -o school
+
+CC = gcc
+SRC =  main.c school.c
+
+all : ${SRC} m.h
+	${CC} ${SRC} -o school
