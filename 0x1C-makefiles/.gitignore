@@ -1,0 +1,7 @@
+*.c
+*.o
+*__py*
+*.h
+school
+ex
+5-main.py
